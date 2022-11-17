@@ -77,7 +77,7 @@ include "config.php";
   </fieldset>
 
 </form>
-
+<a class="btn btn-info" href="view.php">View Student details Page</a>
 </body>
 
 </html>
